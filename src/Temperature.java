@@ -1,6 +1,6 @@
 public class Temperature {
     double farenheit;
-    public Temperature ()
+    public Temperature (int farenheit)
     {
         this.farenheit = farenheit;
     }
